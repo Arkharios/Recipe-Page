@@ -22,7 +22,7 @@ This is a Frontend Mentor challenge that uses simple html and CSS to make a reci
 
 ### Links
 
-- Live Site URL: [Recipe Page](https://your-live-site-url.com)
+- Live Site URL: [Recipe Page](https://arkharios.github.io/Recipe-Page/)
 
 ## My process
 
